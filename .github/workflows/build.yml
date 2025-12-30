@@ -40,4 +40,4 @@ jobs:
         run: uv sync --frozen
 
       - name: Build and deploy site
-        run: uv run mkdocs gh-deploy --force
+        run: uv run python -m mkdocs gh-deploy --force
