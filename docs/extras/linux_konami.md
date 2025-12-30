@@ -77,7 +77,7 @@
 
 !!! tip ""
 
-    - Download the `sp2x-linux-setup.sh` script from [[TWO-TORIAL-CONTRIBUTOR]/sp2x-linux-setup](https://github.com/[TWO-TORIAL-CONTRIBUTOR]/sp2x-linux-setup/)
+    - Download the `sp2x-linux-setup.sh` script from [gist/sp2x-linux-setup](https://gist.github.com/pinapelz/c7a399d4069827c7272e5dd4ab8ba2f6)
     - Place it next to your `📂contents` directory contaning compatible game files
     - Make the script executable `chmod +x sp2x-linux-setup.sh`
     - Run the script and follow instructions
