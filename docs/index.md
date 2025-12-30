@@ -11,12 +11,10 @@
 A compendium of information and guides about arcade games.  
 By the community, for the community.
 
-[Join our Discord server! :fontawesome-brands-discord:](https://discord.gg/cZRUmEPK78){ .md-button }
 </figure>
 
 <hr>
 
-!!! info "Troubleshooting forums are available in our Discord server if you need direct help!"
 
 !!! warning "This site is by no means all-encompassing"
 

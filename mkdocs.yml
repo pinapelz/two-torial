@@ -1,8 +1,7 @@
-site_name: two-torial.xyz
-copyright: two-torial Team
+site_name: ttwr.moekyun.me
 site_description: Arcade Games Troubleshooting Guide
-site_author: two-torial Team
-repo_url: https://github.com/two-torial/two-torial/
+site_author: TWO-TORIAL Team and Contributors
+repo_url: https://github.com/pinapelz/two-torial-dx
 repo_name: GitHub
 
 nav:
@@ -393,11 +392,8 @@ extra_css:
 extra:
   analytics:
     provider: custom
-    property: https://tuah-torial.goatcounter.com/count
+    property: https://ttwr.goatcounter.com/count
   social:
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/cZRUmEPK78
-      name: Discord
     - icon: fontawesome/brands/github
-      link: https://github.com/two-torial
+      link: https://github.com/pinapelz/two-torial-dx
       name: GitHub

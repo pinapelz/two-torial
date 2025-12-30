@@ -48,16 +48,17 @@
 !!! tip ""
 
     To get started with Asphyxia for your specific game(s), you'll need to install the appropriate plugin(s).
-
-    While **we maintain a collection of plugins in our Discord server, we may not have support for every game and version**.  
-    In such cases, **you will need to search for community-developed plugins online yourself**.
-
-    To install plugins from our Discord:
-
-    - Join our Discord server using the logo in the bottom right of the page
-    - Navigate to your game's channel
-    - Check the pinned `Resources` message for potential plugin links
+  
+    A list of [Asphyxia CORE community plugins](https://github.com/asphyxia-core/plugins) is available from the official asphyxia-core organization on GitHub
+  
+    > [See the resources section for a more extensive list of Asphyxia plugins](/resources.md#asphyxia-plugins)
+  
+    Plugins in this repository typically only support `n-1` (a version behind) or `y-1` (a year of updates behind) the latest version of the game.
+  
+    For more up-to-date plugins, please see the individual game pages. In some cases you may need to track down plugins for certain games on your own.
+  
     - Download and extract the plugin
+    - If applicable, find the folder that corresponds to your game (i.e `sdvx@asphyxia`)
     - Place the extracted folders (like `sdvx@asphyxia`) into your `plugins` directory
 
     If plugin files are scattered across multiple files/folders, create a single directory for them and move everything inside, following the `game@asphyxia` naming scheme.

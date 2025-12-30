@@ -57,7 +57,6 @@
     Now, you can select the patches you'd like to apply. 
     
     If you're unsure on what to do, refer to your specific game's guide as it might have more information there.  
-    Otherwise feel free to join our Discord server, the link is at the top of the [home page](/index.md), and ask the community!
 
 <img src="/img/extras/patchweb/5.webp">
 

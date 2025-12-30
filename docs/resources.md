@@ -4,15 +4,21 @@
 
 !!! tip "See [spice2x Patching](./extras/patchsp2x.md)"
 
-    - **TWO-TORIAL** - `https://sp2x.two-torial.xyz/` - **Our [open-source](https://github.com/two-torial/sp2xpatcher) patcher for spice2x compatible games**
+    - **TTWR Patcher** - `https://sp2x.moekyun.me/patches` - **The original TWO-TORIAL spice2x patcher as it was.** May or may not support more patches in the future. [Source](https://github.com/pinapelz/sp2xpatcher)
     - **DJTrackers** - `https://djtrackers.com/bemanipatcher/2x` - **Alternative patcher for anything we don't support**
 
 ## Web Patchers
 
 !!! tip "See [Web Patching](./extras/patchweb.md)"
 
-    - [TWO-TORIAL](https://patcher.two-torial.xyz/) - **Our [open-source](https://github.com/two-torial/webpatcher) web patcher** *(based on mon's)* **for games incompatible with spice2x**
+    - [TTWR Web Patcher](https://web-patcher.moekyun.me) - **The original TWO-TORIAL web-patcher as it was.** For games incompatible with spice2x *(based on mon's)* 
     - [mon's](https://mon.im/bemanipatcher/) - The longest lasting web patcher, supports a variety of **n-1 and older** games
+
+## Asphyxia Plugins
+!!! tip "See [Asphyxia](./extras/asphyxia.md)"
+    - [asphyxia-core/plugins](https://github.com/asphyxia-core/plugins) - Plugins created by Asphyxia-CORE community members
+    - [duel0213/asphyxia-plugins](https://github.com/duel0213/asphyxia-plugins/releases) - IIDX Plugin
+    - [22vv0/asphyxia_plugins](https://github.com/22vv0/asphyxia_plugins/releases) - SDVX and DDR Plugins
 
 ## General
 
