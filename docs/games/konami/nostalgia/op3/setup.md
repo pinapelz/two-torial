@@ -127,10 +127,6 @@
 
 !!! info "Read through the [Extra Information](extras.md) page"
 
-## Monitor Orientation
-
---8<-- "docs/snippets/konami/common/display_portraitfirst.md"
-
 ## Installing VCRedist & DirectX
 
 --8<-- "docs/snippets/common/setup_vcredist_directx.md"
